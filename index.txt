@@ -1,2 +1,4 @@
 Merhaba
 İkinci satır
+remote masterdan gelen güncelleme
+remote masterdan 3. satır
